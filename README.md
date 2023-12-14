@@ -16,7 +16,7 @@ At the moment, my coding compass is pointing towards OpenAI. I'm fascinated by S
 
 ## 📬 Connect with Me:
 
-I'm always up for a good tech chat or collaboration. Don't hesitate to reach out! You can find me on LinkedIn [https://www.linkedin.com/in/maheshsamudra].
+I'm always up for a good tech chat or collaboration. Don't hesitate to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/maheshsamudra).
 
 ## 🙏 Thank You:
 
